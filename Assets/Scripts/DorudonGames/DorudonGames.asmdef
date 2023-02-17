@@ -1,0 +1,21 @@
+{
+    "name": "DorudonGames",
+    "rootNamespace": "",
+    "references": [
+        "GUID:626070ea3273cb844a310aa4f53b31fa",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6c84ab3ea770dfc439062a5e2798a58b",
+        "GUID:a1a4afcead30c0d4cbca22bc36b8761a",
+        "GUID:92a92f3eaa6068349b781220985d609c",
+        "GUID:57a0b9bc628ab4740af4b6f1f0b2e134"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
